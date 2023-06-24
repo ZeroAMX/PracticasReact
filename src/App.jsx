@@ -6,15 +6,15 @@ export default function App() {
     <>
       <section className="TitulePage">
         <h1 className="titule">Vite</h1>
-        <h2 className="subtitle">Next Generation Frontend Tooling</h2>
+        <h2 className="subtitle">Next generation Frontend Tooling</h2>
         <p className="parrafo">
           Get ready for a development environment that can finally catch up with
-          you.
+          you
         </p>
       </section>
 
       <section className="botones">
-        <botones text="Get Starded" />
+        <botones text="Get starded" />
         <botones text="Why Vite?" />
         <botones text="View on GitHub" />
       </section>
